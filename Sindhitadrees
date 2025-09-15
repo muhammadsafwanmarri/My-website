@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="sd">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>سنڌي تدريس</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="header">
+        <div class="logo">
+            <img src="logo.png" alt="Logo">
+        </div>
+        <div class="header-text">
+            <h1>سنڌي تدريس</h1>
+            <p>سماجي اپياس / يونٽ پهرپريون</p>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="content-box">
+            <h2>يونٽ پهرپريون</h2>
+            <a href="#" class="button">باب پهرپريون</a>
+            <a href="#" class="button">باب پهرپريون</a>
+        </div>
+    </main>
+
+</body>
+</html>
